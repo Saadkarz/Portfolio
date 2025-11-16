@@ -34,13 +34,16 @@ const Navigation = () => {
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
-          <motion.div
+          <motion.a
+            href="https://portfolio-git-main-karzouz03-gmailcoms-projects.vercel.app?_vercel_share=EdRs8wM9bRbytwaBlSfJwWjaUIfY1TOe"
+            target="_blank"
+            rel="noopener noreferrer"
             initial={{ opacity: 0, x: -20 }}
             animate={{ opacity: 1, x: 0 }}
-            className="text-2xl font-bold bg-gradient-to-r from-primary to-blue-400 bg-clip-text text-transparent"
+            className="text-2xl font-bold bg-gradient-to-r from-primary to-blue-400 bg-clip-text text-transparent cursor-pointer hover:opacity-80 transition-opacity"
           >
             SK
-          </motion.div>
+          </motion.a>
 
           {/* Desktop Navigation */}
           <div className="hidden md:block">

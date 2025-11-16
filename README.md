@@ -9,7 +9,7 @@
 
 A modern, high-performance portfolio website showcasing AI/ML projects, full-stack development skills, and professional experience.
 
-[View Live Demo](https://portfolio-git-main-karzouz03-gmailcoms-projects.vercel.app?_vercel_share=EdRs8wM9bRbytwaBlSfJwWjaUIfY1TOe)  [Report Bug](https://github.com/Saadkarz/Portfolio/issues)  [Request Feature](https://github.com/Saadkarz/Portfolio/issues)
+[View Live Demo](https://portfolio-git-main-karzouz03-gmailcoms-projects.vercel.app?_vercel_share=EdRs8wM9bRbytwaBlSfJwWjaUIfY1TOe) • [Report Bug](https://github.com/Saadkarz/Portfolio/issues) • [Request Feature](https://github.com/Saadkarz/Portfolio/issues)
 
 </div>
 
